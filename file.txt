@@ -1,1 +1,2 @@
 Hello Git
+GIT part BThis is newbranch
